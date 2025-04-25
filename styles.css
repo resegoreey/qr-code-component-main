@@ -5,8 +5,16 @@ body {
 
 .container {
     background-color: hsl(0, 0%, 100%);
-    margin: auto;
+    margin: 80px auto;
     width: 50%;
+    height: 40%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
 }
 
 .attribution {
