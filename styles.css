@@ -3,6 +3,12 @@ body {
     background-color: hsl(212, 45%, 89%);
 }
 
+.container {
+    background-color: hsl(0, 0%, 100%);
+    margin: auto;
+    width: 50%;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
