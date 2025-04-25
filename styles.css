@@ -1,6 +1,9 @@
 body {
     margin: 0;
     background-color: hsl(212, 45%, 89%);
+    font-family: "Tuffy", sans-serif;
+    line-height: 1;
+    font-size: 15px;
 }
 
 .container {
