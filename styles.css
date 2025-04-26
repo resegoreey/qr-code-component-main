@@ -1,23 +1,32 @@
 body {
-    margin: 0;
-    background-color: hsl(212, 45%, 89%);
-    font-family: "Tuffy", sans-serif;
-    line-height: 1;
-    font-size: 15px;
+  margin: 0;
+  padding: 0;
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Tuffy", sans-serif;
+  line-height: 1;
+  font-size: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
 
 .container {
-    background-color: hsl(0, 0%, 100%);
-    margin: 100px auto;
-    width: 30%;
-    height: auto;
-    padding: 20px;
-    border-radius: 10px;
+  background-color: hsl(0, 0%, 100%);
+  margin: 20px;
+  width: 90%;
+  max-width: 400px;
+  height: auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  text-align: center;
 }
 
 img {
-    width: 100%;
-    border-radius: 10px;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
 }
 
 .attribution {
@@ -29,7 +38,11 @@ img {
 }
 
 @media (max-width: 420px) {
-  .container {
-    width: 80px;
+  .container h1 {
+    font-size: 1.2rem;
+  }
+
+  .container h1 {
+    font-size: 0.9rem;
   }
 }
