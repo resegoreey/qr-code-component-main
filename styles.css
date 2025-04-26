@@ -8,9 +8,9 @@ body {
 
 .container {
     background-color: hsl(0, 0%, 100%);
-    margin: 80px auto;
-    width: 50%;
-    height: 40%;
+    margin: 100px auto;
+    width: 30%;
+    height: auto;
     padding: 20px;
     border-radius: 10px;
 }
