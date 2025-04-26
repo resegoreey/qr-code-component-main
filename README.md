@@ -39,6 +39,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Website - Resego Motlhasi (https://scan-qr-c0de.netlify.app/)
 - Frontend Mentor - @resegoreey(https://www.frontendmentor.io/profile/resegoreey)
-- Github - @resegoreey (https://www.twitter.com/resegoreey)
+- Github - @resegoreey (https://github.com/resegoreey)
 
 
