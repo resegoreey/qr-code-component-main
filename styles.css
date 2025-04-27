@@ -14,12 +14,18 @@ body {
 .container {
   background-color: hsl(0, 0%, 100%);
   margin: 20px;
-  max-width: 300px;
+  max-width: 350px;
   height: auto;
   padding: 20px 20px;
-  border-radius: 30px;
+  border-radius: 20px;
   box-sizing: border-box;
   text-align: center;
+}
+
+.container p {
+  margin: 0;
+  line-height: 1.2;
+  color: gray;
 }
 
 img {
